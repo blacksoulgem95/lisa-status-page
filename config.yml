@@ -2,7 +2,7 @@ title: Eggsample Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://dainty-sprite-059578.netlify.app/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
