@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2022-12-20T16:24:54.550Z
+resolvedWhen: ""
 affected:
   - customer-1-tracking
 severity: down
